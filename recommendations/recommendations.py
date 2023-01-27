@@ -33,7 +33,7 @@ books_by_category = {
  BookRecommendation(id=19, title=   "Эффект энтропии"),
  BookRecommendation(id=20, title=   "Синий реванш"),
  ],
- BookCategory.  : [
+ BookCategory.SELF_HELP: [
  BookRecommendation(id=21, title=   "Семь навыков высокоэффективных людей"),
  BookRecommendation(id=22, title=   "Как завоёвывать друзей и оказывать влияние на людей"),
  BookRecommendation(id=23, title=   "Человек в поисках смысла"),
